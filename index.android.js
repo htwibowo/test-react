@@ -25,7 +25,7 @@ export default class Test extends Component {
       Harry Tri Wibowo
       </Text>
       <Text style={styles.instructions}>
-      Refactory 1st Batch &middot; Camorra
+      Refactory &middot; Batch #1 &middot; Camorra
       </Text>
       </View>
     );
